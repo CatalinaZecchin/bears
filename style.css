@@ -1,0 +1,26 @@
+h1 {
+color: #4B0082; 
+font-family: 'Gill Sans';
+}
+
+
+p {
+    font-family: 'Gill Sans';
+    color: black;
+  }
+
+.uppercase {
+    text-transform: capitalize;
+    font-family: 'Gill Sans';
+} 
+
+body {
+   
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    background: linear-gradient(-200deg, #98FB98, #3CB371);
+    margin: 30;
+    padding: 00;
+    font-family: 'Gill Sans';
+  }
+
+ 
